@@ -1,5 +1,7 @@
 # Airport Sectors for Endless ATC
-Developed Airport Sectors for Endless ATC, an air traffic control radar simulation game
+My Airport Sectors developed for Endless ATC, an air traffic control radar simulation game.
+
+Contributed to main repository at https://github.com/EndlessATC/Airports
 
 ------
 
